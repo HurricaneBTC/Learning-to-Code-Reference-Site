@@ -1,3 +1,15 @@
 header {
     font-size: 50px;
 }
+
+p {
+    color: red;
+}
+
+div {
+    background-color: hotpink;
+}
+
+body {
+    text-align: center;
+}
